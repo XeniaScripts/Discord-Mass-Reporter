@@ -1,0 +1,8 @@
+[dev]
+Proxyless = true
+Debug = false
+Threads = 1  # This will be used for max threads
+
+[report]
+user_id = ""  # Leave empty to prompt
+server_id = "" # Leave empty to prompt
